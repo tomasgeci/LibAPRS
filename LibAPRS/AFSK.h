@@ -131,8 +131,8 @@ typedef struct Afsk
 #else
 //#define LED_PIN_TX 1
 //#define LED_PIN_RX 2
-#define LED_PIN_TX 0
-#define LED_PIN_RX 1
+#define LED_PIN_TX 1 // PORTB1 / PB1
+#define LED_PIN_RX 2 // PORTB2 / PB2
 
 #endif
 
