@@ -1,6 +1,8 @@
 LibAPRS
 ==========
 
+This is unofficial fork of https://github.com/sh123/LibAPRS repository.
+
 LibAPRS is an Arduino IDE library that makes it easy to send and receive APRS packets with a [MicroModem](http://unsigned.io/micromodem)-compatible modem.
 
 You can buy a complete modem from [my shop](http://unsigned.io/shop), or you can build one yourself pretty easily. Take a look at the documentation in the [MicroModem](https://github.com/markqvist/MicroModem) repository for information and getting started guides!
